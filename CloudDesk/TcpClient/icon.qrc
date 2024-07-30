@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>cion/dir.svg</file>
+        <file>cion/reg.svg</file>
+    </qresource>
+</RCC>
